@@ -22,4 +22,4 @@ Thanks 🙇🏻 for visiting my Github Profile ❤️!
 **💬 Want to connect? 📫**
 
 - [`💼 <LinkedIn profileURL="https://www.linkedin.com/in/pgmanutd" />`](https://www.linkedin.com/in/pgmanutd)
-- [`📫 <Email address="prashantmanunited@gmail.com" />`](mailto:prashantmanunited@gmail.com)
+- [`📧 <Email address="prashantmanunited@gmail.com" />`](mailto:prashantmanunited@gmail.com)
