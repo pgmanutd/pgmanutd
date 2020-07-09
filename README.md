@@ -10,7 +10,7 @@ Thanks 🙇🏻 for visiting my Github Profile ❤️!
 `Check out pinned repo's below 👇`
 
 **😍 Passionate about**
-<br><br><img src="https://i.pinimg.com/originals/54/41/44/54414476395cf546f26cc83f385f3b65.gif" width="200px"><br>
+<br><br><img src="https://i.pinimg.com/originals/54/41/44/54414476395cf546f26cc83f385f3b65.gif" width="100px"><br>
 - [`👓 WebXR`](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API)
 - [`🔻 Threejs`](https://threejs.org)
 - [`⚛️ React 360`](https://facebook.github.io/react-360/)
