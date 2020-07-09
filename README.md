@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi, I'm Prashant 👋
 
-<!--
-**pgmanutd/pgmanutd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks 🙇🏻 for visiting my Github Profile ❤️!
 
-Here are some ideas to get you started:
+**👨‍💻 Currently working on**
+- [`👷‍♀️ Compiled CSS-in-JS`](https://github.com/atlassian-labs/compiled-css-in-js)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🔬 My Works**
+
+`Check out pinned repo's below 👇`
+
+**😍 Passionate about**
+<br><br><img src="https://i.pinimg.com/originals/54/41/44/54414476395cf546f26cc83f385f3b65.gif" width="200px"><br>
+- [`👓 WebXR`](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API)
+- [`🔻 Threejs`](https://threejs.org)
+- [`⚛️ React 360`](https://facebook.github.io/react-360/)
+- [`🎉 CSS-in-JS`](https://en.wikipedia.org/wiki/CSS-in-JS) 
+- [`🔧 Codemods`](https://github.com/facebook/jscodeshift)
+- [`⬡ GraphQL`](https://graphql.org)
+- [`🔥 Functional Programming`](https://en.wikipedia.org/wiki/Functional_programming)
+
+**💬 Want to connect? 📫**
+
+- [`💼 <LinkedIn profileURL="https://www.linkedin.com/in/pgmanutd" />`](https://www.linkedin.com/in/pgmanutd)
+- [`📫 <Email address="prashantmanunited@gmail.com" />`](mailto:prashantmanunited@gmail.com)
