@@ -12,7 +12,7 @@ Thanks 🙇🏻 for visiting my Github Profile ❤️!
 `Check out pinned repo's below 👇`
 
 **😍 Passionate about**
-<br><br><img src="./assets/images/vr-gaming.gif" width="150px"><br>
+<br><br><img src="https://github.com/pgmanutd/pgmanutd/raw/master/assets/images/vr-gaming.gif" width="150px"><br>
 - [`👓 WebXR`](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API)
 - [`🔻 Threejs`](https://threejs.org)
 - [`⚛️ React 360`](https://facebook.github.io/react-360/)
