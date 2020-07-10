@@ -2,10 +2,12 @@
 
 Thanks 🙇🏻 for visiting my Github Profile ❤️!
 
+<!-- <img width="380" height="140" src="https://github-readme-stats.vercel.app/api?username=pgmanutd&show_icons=true"> -->
+
 **👨‍💻 Currently working on**
 - [`👷‍♀️ Compiled CSS-in-JS`](https://github.com/atlassian-labs/compiled-css-in-js)
 
-**🔬 My Works**
+**🔬 My other works**
 
 `Check out pinned repo's below 👇`
 
@@ -21,5 +23,17 @@ Thanks 🙇🏻 for visiting my Github Profile ❤️!
 
 **💬 Want to connect? 📫**
 
-- [`💼 <LinkedIn profileURL="https://www.linkedin.com/in/pgmanutd" />`](https://www.linkedin.com/in/pgmanutd)
-- [`📧 <Email address="prashantmanunited@gmail.com" />`](mailto:prashantmanunited@gmail.com)
+```ts
+import React from 'react';
+import ReactDOM from 'react-dom';
+
+ReactDOM.render(
+  <>
+    <LinkedIn profileURL="https://www.linkedin.com/in/pgmanutd" name="Prashant Goel" />
+    <Email address="prashantmanunited@gmail.com" />
+  </>, 
+  document.getElementById('want-to-connect')
+);
+```
+[![Linkedin Badge](https://img.shields.io/badge/-Prashant%20Goel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pgmanutd)](https://www.linkedin.com/in/pgmanutd) [![Gmail Badge](https://img.shields.io/badge/-prashantmanunited@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prashantmanunited@gmail.com)](mailto:prashantmanunited@gmail.com)
+
