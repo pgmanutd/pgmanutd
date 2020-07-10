@@ -27,10 +27,12 @@ Thanks 🙇🏻 for visiting my Github Profile ❤️!
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+import { LinkedIn, Email } from './components';
+
 ReactDOM.render(
   <>
     <LinkedIn profileURL="https://www.linkedin.com/in/pgmanutd" name="Prashant Goel" />
-    <Email address="prashantmanunited@gmail.com" />
+    <Email address="prashantmanunited@gmail.com" provider="Gmail" />
   </>, 
   document.getElementById('want-to-connect')
 );
