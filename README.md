@@ -12,14 +12,14 @@ Thanks 🙇🏻 for visiting my Github Profile ❤️!
 `Check out pinned repositories below 👇`
 
 **😍 Passionate about**
-<br><br><img src="https://github.com/pgmanutd/pgmanutd/raw/master/assets/images/vr-gaming.gif" width="150px"><br><br>
-[`👓 WebXR`](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API)
-[`🔻 Threejs`](https://threejs.org)
-[`🎉 CSS-in-JS`](https://en.wikipedia.org/wiki/CSS-in-JS) 
-[`🔧 Codemods`](https://github.com/facebook/jscodeshift)
-[`⬡ GraphQL`](https://graphql.org)
-[`🔥 Functional Programming`](https://en.wikipedia.org/wiki/Functional_programming)
-<br><br>
+<br><br><img src="https://github.com/pgmanutd/pgmanutd/raw/master/assets/images/vr-gaming.gif" width="150px"><br>
+- [`👓 WebXR`](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API)
+- [`🔻 Threejs`](https://threejs.org)
+- [`🎉 CSS-in-JS`](https://en.wikipedia.org/wiki/CSS-in-JS) 
+- [`🔧 Codemods`](https://github.com/facebook/jscodeshift)
+- [`⬡ GraphQL`](https://graphql.org)
+- [`🔥 Functional Programming`](https://en.wikipedia.org/wiki/Functional_programming)
+
 **💬 Want to connect? 📫**
 
 ```ts
