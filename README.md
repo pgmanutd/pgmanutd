@@ -5,22 +5,21 @@ Thanks 🙇🏻 for visiting my Github Profile ❤️!
 <!-- <img width="380" height="140" src="https://github-readme-stats.vercel.app/api?username=pgmanutd&show_icons=true"> -->
 
 **👨‍💻 Currently working on**
-- [`👷‍♀️ Compiled CSS-in-JS`](https://github.com/atlassian-labs/compiled-css-in-js)
+- [`👷‍♀️ Compiled CSS-in-JS: The CSS in JS authoring experience we love without the runtime cost`](https://github.com/atlassian-labs/compiled-css-in-js)
 
 **🔬 My other works**
 
 `Check out pinned repo's below 👇`
 
 **😍 Passionate about**
-<br><br><img src="https://github.com/pgmanutd/pgmanutd/raw/master/assets/images/vr-gaming.gif" width="150px"><br>
-- [`👓 WebXR`](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API)
-- [`🔻 Threejs`](https://threejs.org)
-- [`⚛️ React 360`](https://facebook.github.io/react-360/)
-- [`🎉 CSS-in-JS`](https://en.wikipedia.org/wiki/CSS-in-JS) 
-- [`🔧 Codemods`](https://github.com/facebook/jscodeshift)
-- [`⬡ GraphQL`](https://graphql.org)
-- [`🔥 Functional Programming`](https://en.wikipedia.org/wiki/Functional_programming)
-
+<br><br><img src="https://github.com/pgmanutd/pgmanutd/raw/master/assets/images/vr-gaming.gif" width="150px"><br><br>
+[`👓 WebXR`](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API)
+[`🔻 Threejs`](https://threejs.org)
+[`🎉 CSS-in-JS`](https://en.wikipedia.org/wiki/CSS-in-JS) 
+[`🔧 Codemods`](https://github.com/facebook/jscodeshift)
+[`⬡ GraphQL`](https://graphql.org)
+[`🔥 Functional Programming`](https://en.wikipedia.org/wiki/Functional_programming)
+<br><br>
 **💬 Want to connect? 📫**
 
 ```ts
