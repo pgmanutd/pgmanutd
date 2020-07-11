@@ -9,7 +9,7 @@ Thanks 🙇🏻 for visiting my Github Profile ❤️!
 
 **🔬 My other works**
 
-`Check out pinned repo's below 👇`
+`Check out pinned repositories below 👇`
 
 **😍 Passionate about**
 <br><br><img src="https://github.com/pgmanutd/pgmanutd/raw/master/assets/images/vr-gaming.gif" width="150px"><br><br>
