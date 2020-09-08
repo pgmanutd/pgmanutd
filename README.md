@@ -5,7 +5,7 @@ Thanks 🙇🏻 for visiting my Github Profile ❤️!
 <!-- <img width="380" height="140" src="https://github-readme-stats.vercel.app/api?username=pgmanutd&show_icons=true"> -->
 
 **👨‍💻 Currently working on**
-- [`👷‍♀️ Compiled CSS in JS | The CSS in JS authoring experience we love without the runtime cost`](https://github.com/atlassian-labs/compiled-css-in-js)
+- [`👷‍♀️ Compiled | Build time CSS in JS without the runtime & migration cost`](https://github.com/atlassian-labs/compiled)
 
 **🔬 My other works**
 
