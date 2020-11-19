@@ -5,7 +5,7 @@ Thanks 🙇🏻 for visiting my Github Profile ❤️!
 <!-- <img width="380" height="140" src="https://github-readme-stats.vercel.app/api?username=pgmanutd&show_icons=true"> -->
 
 **👨‍💻 Currently working on**
-- [`👷‍♀️ Compiled | Build time atomic CSS in JS without the runtime cost. Bake, consume, extract. Everywhere.`](https://github.com/atlassian-labs/compiled)
+- [`👷‍♀️ Compiled | Build time atomic CSS-in-JS. Baked and ready to serve.`](https://github.com/atlassian-labs/compiled)
 
 **🔬 My other works**
 
