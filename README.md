@@ -24,8 +24,8 @@ Thanks 🙇🏻 for visiting my Github Profile ❤️!
 **💬 Want to connect? 📫**
 
 ```ts
-import React from 'react';
-import ReactDOM from 'react-dom';
+import * as React from 'react';
+import * as ReactDOM from 'react-dom';
 
 import { LinkedIn, Email } from './components';
 
