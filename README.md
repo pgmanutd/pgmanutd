@@ -27,7 +27,7 @@ Thanks 🙇🏻 for visiting my Github Profile ❤️!
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
 
-import { LinkedIn, Email } from './components';
+import { LinkedIn, Email, LeetCode } from './components';
 
 ReactDOM.render(
   <>
