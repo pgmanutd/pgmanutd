@@ -27,13 +27,13 @@ Thanks 🙇🏻 for visiting my Github Profile ❤️!
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
 
-import { LinkedIn, Email, LeetCode } from './components';
+import { Profile, Email } from './components';
 
 ReactDOM.render(
   <>
-    <LinkedIn profileURL="https://www.linkedin.com/in/pgmanutd" name="Prashant Goel" />
+    <Profile type="LinkedIn" url="https://www.linkedin.com/in/pgmanutd" name="Prashant Goel" />
     <Email address="prashantmanunited@gmail.com" provider="Gmail" />
-    <LeetCode profileURL="https://leetcode.com/pgmanutd" name="Prashant Goel" />
+    <Profile type="LeetCode" url="https://leetcode.com/pgmanutd" name="Prashant Goel" />
   </>, 
   document.getElementById('want-to-connect')
 );
