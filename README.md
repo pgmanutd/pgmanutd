@@ -33,9 +33,10 @@ ReactDOM.render(
   <>
     <LinkedIn profileURL="https://www.linkedin.com/in/pgmanutd" name="Prashant Goel" />
     <Email address="prashantmanunited@gmail.com" provider="Gmail" />
+    <LeetCode profileURL="https://leetcode.com/pgmanutd" name="Prashant Goel" />
   </>, 
   document.getElementById('want-to-connect')
 );
 ```
-[![Linkedin Badge](https://img.shields.io/badge/-Prashant%20Goel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pgmanutd)](https://www.linkedin.com/in/pgmanutd) [![Gmail Badge](https://img.shields.io/badge/-prashantmanunited@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prashantmanunited@gmail.com)](mailto:prashantmanunited@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Prashant%20Goel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pgmanutd)](https://www.linkedin.com/in/pgmanutd) [![Gmail Badge](https://img.shields.io/badge/-prashantmanunited@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prashantmanunited@gmail.com)](mailto:prashantmanunited@gmail.com) [![LeetCode Badge](https://img.shields.io/badge/-Prashant%20Goel-fea116?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/pgmanutd)](https://leetcode.com/pgmanutd)
 
