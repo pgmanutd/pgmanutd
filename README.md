@@ -6,6 +6,7 @@ Thanks 🙇🏻 for visiting my Github Profile ❤️!
 
 **👨‍💻 Currently working on**
 - [`👷‍♀️ Compiled | Build time atomic CSS-in-JS. Baked and ready to serve.`](https://github.com/atlassian-labs/compiled)
+- [![LeetCode Badge](https://img.shields.io/badge/-LeetCode%20Problems-fea116?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/pgmanutd)](https://leetcode.com/pgmanutd)
 
 **🔬 My other works**
 
